@@ -1,0 +1,1 @@
+python evaluation/extract_prompt.py --clip clip-ViT-B-32 --image_folder "/workspace/SwiftBrush/result_mvdream13_same_T_4view_%2_tune1/dreamfusion/16K"
